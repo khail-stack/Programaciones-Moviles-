@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races_array">
+        <item>Beagle</item>
+        <item>Bóxer</item>
+        <item>Basset Hound</item>
+        <item>Bull Terrier</item>
+        <item>Bulldog</item>
+        <item>Chihuahua</item>
+        <item>Dálmata</item>
+        <item>Doberman</item>
+    </string-array>
+</resources>

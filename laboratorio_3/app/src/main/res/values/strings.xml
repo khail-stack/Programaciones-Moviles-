@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VeteriApp</string>
+
+    <string name="user">Usuario</string>
+    <string name="pass">Password</string>
+    <string name="login">Ingresar</string>
+
+    <string name="pets_title">Mascotas</string>
+    <string name="orders_title">Órdenes</string>
+
+    <string name="new_pet">Nueva Mascota</string>
+    <string name="new_order">Nueva Orden</string>
+
+    <string name="name">Nombre</string>
+    <string name="race">Raza</string>
+    <string name="age">Edad</string>
+    <string name="sex">Sexo</string>
+    <string name="male">Macho</string>
+    <string name="female">Hembra</string>
+
+    <string name="number">Número</string>
+    <string name="pet">Mascota</string>
+    <string name="services">Servicios</string>
+    <string name="shower">Bañado</string>
+    <string name="nails">Uñas</string>
+    <string name="vaccine">Vacuna</string>
+
+    <string name="anio">año</string>
+    <string name="anios">años</string>
+
+    <string name="save">Guardar</string>
+
+    <string name="zero_pets">Se necesita registrar una mascota para poder generar una nueva orden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
