@@ -26,7 +26,5 @@ public class VeteriApp extends Application {
     public void addOrder(Order order) {
         orderList.add(order);
     }
-
-
 }
 

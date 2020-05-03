@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flash Browser</string>
+    <string-array name="intents">
+        <item>Abrir el navegador</item>
+        <item>Llamar</item>
+        <item>Abrir mapa</item>
+        <item>Buscar en mapa</item>
+        <item>Tomar foto</item>
+        <item>Ver contactos</item>
+    </string-array>
+
+</resources>
